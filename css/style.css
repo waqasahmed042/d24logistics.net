@@ -45,19 +45,6 @@ body {
   display: none;
 }
 
-.hero_area::after {
-  position: absolute;
-  content: "";
-  background-image: url(../images/blue-bg.png);
-  background-size: cover;
-  background-repeat: no-repeat;
-  width: 42%;
-  height: 70px;
-  top: 98.5%;
-  right: -4%;
-  z-index: -1;
-}
-
 /*header section*/
 
 
